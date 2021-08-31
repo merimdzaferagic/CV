@@ -20,10 +20,10 @@ resume_contact_email:           "dzaferam@tcd.ie"
 #resume_contact_telephone:       "555-7334"
 #resume_contact_address:         "742 Evergreen Terrace, Springfield"
 
-resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
+#resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "<p>I graduated in telecommunications engineering and received his Ph.D. from Trinity College Dublin, Ireland, in 2020. Currently, I am employed as a research fellow at Trinity College Dublin, and a lecturer at Maynooth University. My work mainly focuses on distributed optimization and self-organization solutions for communication networks as well as Machine Learning applications to support the operation of industrial IoT networks. I am also studying the impact that topological structures have on the overall network performance. As part of his PhD he has been working on the concept of emergence, distributed optimization and self-organization solutions for communication networks. Additionally, I also work on different software based solutions for network optimization through dynamic reconfigurations. </p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
